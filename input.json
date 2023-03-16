@@ -1,0 +1,13 @@
+{"timestamp": 1588100043050, "metricName": "messageQueue.operation", "product": "Legacy MQ", "productVersion": "8.0.1.11", "connectionId": "64688F5E01E47020", "clientIpAddress": "36.1.90.2", "clientName": "JMS Producer", "queueManager": "QM1", "queueTopic": "MY.QUEUE.1", "putMessage": 3605}
+
+
+
+{"timestamp": 1588100044203, "metricName": "messageQueue.operation", "product": "Legacy MQ", "productVersion": "8.0.1.11", "connectionId": "64688F5E01F0F77A", "clientIpAddress": "36.1.90.2", "clientName": "JMS Consumer","queueManager": "QM1", "queueTopic": "MY.QUEUE.1", "getMessage": 2000}
+
+
+
+{"timestamp": 1588100060150, "metricName": "messageQueue.operation", "product": "Legacy MQ", "productVersion": "8.0.1.11", "connectionId": "64688F5E01E47020", "clientIpAddress": "36.1.90.5", "clientName": "Fin Producer", "queueManager": "QM1", "queueTopic": "MY.QUEUE.2", "putMessage": 400}
+
+
+
+{"timestamp": 1588100065285, "metricName": "messageQueue.operation", "product": "Legacy MQ", "productVersion": "8.0.1.11", "connectionId": "64688F5E01F0F77A", "clientIpAddress": "36.1.90.7", "clientName": "Fin Consumer", "queueManager": "QM1", "queueTopic": "MY.QUEUE.2", "getMessage": 400}
